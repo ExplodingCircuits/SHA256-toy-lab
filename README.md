@@ -1,7 +1,7 @@
 # SHA256-toy-lab
 SHA-256-based toy lab using ESP32S3 SuperMini
 
-This is just a fun project I threw together, which I may work on further in the future. The lab doesn't do real Bitcoin mining, but it runs mathematical equations that replicate real Bitcoin mining. I found it works nicely as a desk toy.
+This is just a fun project I threw together, which I may work on further in the future. The lab doesn't do real Bitcoin mining, but is a SHA-256 educational demonstrator that runs mathematical equations replicating real Bitcoin mining. I got a hash rate of around 7000H/s, and found the operating temperature to be around 47°C. The device includes temperature hysteresis to stop the device from exceeding 70°C for safety. 
 
 # Parts:
 -ESP32S3 SuperMini
